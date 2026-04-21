@@ -1,5 +1,5 @@
 # Werbetexte Möbel
-##Meine Werbetexte
+## Meine Werbetexte
 <br/>
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/99b2abee-30e4-4c03-aed9-57ed644593b4" />
 (Image by tohamina on Freepik)

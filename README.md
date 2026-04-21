@@ -3,7 +3,7 @@ Meine Werbetexte
 <br/>
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/99b2abee-30e4-4c03-aed9-57ed644593b4" />
 (Image by tohamina on Freepik)
-<br/>
+<p>
 Verwandeln Sie Ihren Wohnraum in eine stilvolle Wohlfühloase.
 
 Dieser elegante Sessel vereint zeitloses Design mit höchstem Komfort. Die weich gepolsterte, fein gesteppte Rückenlehne lädt zum Entspannen ein, während die sanft geschwungenen Armlehnen und die stabilen Holzbeine für eine harmonische Balance aus Gemütlichkeit und moderner Ästhetik sorgen. Ob zum Lesen, Entspannen oder für Ihren ersten Kaffee am Morgen – hier finden Sie Ihren neuen Lieblingsplatz.
